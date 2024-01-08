@@ -1,0 +1,9 @@
+{
+	"token": {		
+		"layout_menu_top_home": "Home",
+		"layout_menu_top_about": "About us",
+		"layout_menu_top_services": "Services",
+		"layout_menu_top_careers": "Careers",
+		"layout_menu_top_contact": "Contact us"
+	}
+}

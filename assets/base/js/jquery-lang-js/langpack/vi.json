@@ -1,0 +1,296 @@
+{
+    "token": {
+        "layout_menu_top_home": "Trang chủ",
+        "layout_menu_top_about": "Giới thiệu",
+        "layout_menu_top_services": "Dịch vụ",
+        "layout_menu_top_careers": "Tuyển dụng",
+        "layout_menu_top_contact": "Liên hệ",
+        "layout_menu_top_language": "Ngôn ngữ",
+        "layout_footer_copyright": "© Bản quyền 2019 thuộc về Công ty trách nhiệm hữu hạn ECEPVN.",
+
+        "home_slider_title_1": "We keep your data alive",
+        "home_slider_title_2": "Mang đến với bạn những khóa học trực tuyến",
+
+        "home_slider_learn_more": "Xem thêm",
+
+        "home_core_value_header": "Giá trị cốt lõi",
+        "home_core_value_sub_header": "Làm việc thông minh - Giữ gìn thương hiệu.",
+        "home_core_value_leadership_title": "Tiên phong",
+        "home_core_value_leadership_description": "Vì một tương lai tốt đẹp hơn",
+        "home_core_value_collaboration_title": "Cộng tác",
+        "home_core_value_collaboration_description": "Để tăng vốn xã hội thông qua cộng tác",
+        "home_core_value_passion_title": "Đam mê",
+        "home_core_value_passion_description": "Để vượt trội trong mọi việc chúng tôi làm",
+        "home_core_value_quality_title": "Cải tiến",
+        "home_core_value_quality_description": "Luôn học hỏi và cải tiến",
+
+        "home_mission_header": "Sứ mạng",
+        "home_mission_statement": "Tạo sản phẩm chất lượng cao cho khách hàng và xã hội.",
+        "home_mission_author_regency": "GĐH ECEPVN",
+
+
+        "To create": "Tạo sản phẩm",
+        "high quality products": "và dịch vụ",
+        "and services for": "chất lượng cao cho",
+        "clients and society.": " khách hàng và xã hội.",
+
+
+        "home_lastest_project_header": "Dự án mới nhất",
+        "home_lastest_project_data_warehouse_description_part_1": "Khai thác (nhập) dữ liệu rất quan trọng đối với doanh nghiệp quảng cáo trực tuyến.",
+        "home_lastest_project_data_warehouse_description_part_2": "Chúng tôi cung cấp giải pháp Data Warehouse cho doanh nghiệp để tổng hợp dữ liệu quảng cáo từ nhiều nguồn khác nhau.",
+        "home_lastest_project_data_warehouse_description_part_3": "Sau khi thực hiện các bước tiền xử lý, dữ liệu này được phân tích và tổng hợp thành những báo cáo cung cấp thông tin có giá trị cho doanh nghiệp.",
+        "home_lastest_project_data_warehouse_title": "Giải pháp Data Warehouse và Reporting cho doanh nghiệp quảng cáo trực tuyến",
+
+        "home_lastest_project_ecepvn_lcms_title": "ECEPVN LCMS",
+        "home_lastest_project_ecepvn_lcms_description_part_1": "ECEPVN LCMS là một phần mềm quản lý học liệu, theo dõi, báo cáo, truyền tải các khoá học e-learning hoặc các chương trình đào tạo.",
+        "home_lastest_project_ecepvn_lcms_description_part_2": "Ngoài những tính năng cơ bản, ECEPVN LCMS cung cấp các chức năng nâng cao như quản lý phiên bản, tìm kiếm, đánh giá khoá học, và các ứng dụng truy cập trên thiết bị di động.",
+
+        "home_lastest_project_ecepvn_lib_title": "ECEPVN Lib",
+        "home_lastest_project_ecepvn_lib_description_part_1": "ECEPVN Library là một bộ sưu tập các từ điển tham chiếu có chất lượng (từ điển Hán- Việt, từ điển tiếng Việt, từ điển Anh-Việt, từ điển Anh-Trung,...).",
+        "home_lastest_project_ecepvn_lib_description_part_2": "Thư viện này bao gồm cơ sở dữ liệu lớn các từ vựng tiếng Việt. Dữ liệu có thể được truy cập thông qua Web API.",
+        "home_lastest_project_ecepvn_lib_description_part_3": "Từ nền tảng ECEPVN Library, bạn có thể xây dựng nhiều ứng dụng khác nhau từ các từ điển tham chiếu đến ứng dụng xử lý ngôn ngữ tự nhiên.",
+
+        "home_who_we_are_header": "Về chúng tôi",
+        "home_who_we_are_description_1": "Công ty TNHH ECEPVN được thành lập bởi một nhóm kỹ sư được thúc đẩy bởi niềm tin vào  đào tạo thông qua thực hành để tạo ra giá trị mới cho xã hội, xây dựng sản phẩm chất lượng cao và đạt đến sự toàn vẹn cao nhất trong công việc.",
+        "home_who_we_are_description_2": "Chúng tôi có hai nhóm: Tư vấn và Giáo dục. Nhóm tư vấn tập trung vào các giải pháp Data Warehouse, phát triển, gia công phần mềm, trong và ngoài nước. Nhóm giáo dục tập trung vào xây dựng công cụ để hỗ trợ đào tạo.",
+        "home_who_we_are_more": "Xem thêm",
+
+        "home_our_clients_header": "Khách hàng của chúng tôi",
+
+        "home_service_we_do_header": "Dịch vụ chúng tôi làm",
+        "home_service_we_do_web_mobile_app_dev_title": "Phát triển Ứng dụng di động và web",
+        "home_service_we_do_web_mobile_app_dev_description": "Chúng tôi hiện thực những yêu cầu của bạn thành những sản phẩm chất lượng cao.",
+
+        "home_service_we_do_training_title": "Đào tạo",
+        "home_service_we_do_traning_description": "ECEPVN có thể chuyển giao tri thức của chúng tôi cho bạn theo yêu cầu.",
+
+        "home_service_we_do_data_warehourse_solutions_title": "Giải pháp Data Warehouse",
+        "home_service_we_do_data_warehourse_solutions_description": "Chúng tôi cung cấp giải pháp Data Warehouse nhằm tạo ra cái nhìn hợp nhất về dữ liệu doanh nghiệp.",
+
+        "home_service_we_do_the_future_title": "Tương lai",
+        "home_service_we_do_the_future_description": "Lorem ipsum consectetuer elit sit amet, sit adipiscing amet, coectetuer adipiscing elit sit ame.",
+
+        "home_location_header": "Vị trí",
+        "home_location_headerquarters_title_1": "Trụ sở chính ở",
+        "home_location_headerquarters_title_2": "Hoa Kỳ",
+        "home_location_headerquarters_state": "Bang: San Dieo, California.",
+        "home_location_headerquarters_address": "Địa chỉ: 120 Island Ave, San Diego CA 92010.",
+        "home_location_main_office_title": "Văn phòng chính ở Việt Nam",
+        "home_location_main_office_city": "Thành phố: Hồ Chí Minh.",
+        "home_location_main_office_address": "Địa chỉ: 142 Vo Van Tan Street, Ward 6, District 3.",
+        "home_location_main_office_room": "Phòng 6.1, Tòa nhà Tâm Minh Khuê.",
+        "home_location_branch_office_nt_title": "Chi nhánh ở Việt Nam",
+        "home_location_branch_office_nt_city": "Thành phố: Nha Trang.",
+        "home_location_branch_office_nt_address": "Địa chỉ: 50 Yersin",
+        "home_location_branch_office_nt_room": "Phòng 4.1, Toà nhà Đắc Sinh",
+
+        "State:": "Bang:",
+        "Address:": "Địa chỉ:",
+        "City:": "Thành phố:",
+        "Ho Chi Minh, Vietnam": "Hồ Chí Minh, Việt Nam",
+        "142 Vo Van Tan Street, Ward 6, District 3": "142 Võ Văn Tần, Phường 6, Quận 3",
+        "Room 6.1, Tam Minh Khue Office": "Phòng 6.1, Tòa nhà Tâm Minh Khuê",
+        "Main Office in": "Văn phòng chính ở",
+        "Vietnam": "Việt Nam",
+        "Room 4.1, Dac Sinh Office": "Phòng 4.1, Tòa nhà Đắc Sinh",
+        "Branch Office in": "Chi nhánh ở",
+        "Nha Trang, Vietnam": "Nha Trang, Việt Nam",
+        "50 Yersin Street": "50 Yersin",
+
+        "Name": "Tên",
+        "Email": "Email",
+        "Phone": "Điện thoại",
+        "Skype": "Skype",
+        "What we can help?": "Chúng tôi có thể giúp gì cho bạn?",
+
+        "home_contact_header": "Liên hệ",
+        "home_contact_name": "Tên",
+        "home_contact_phone": "Điện thoại",
+        "home_contact_email": "Email",
+        "home_contact_skype": "Skype",
+        "home_contact_comment": "Chúng tôi có thể giúp gì cho bạn?",
+        "home_contact_send": "Gửi",
+
+        "about_banner_header": "Câu chuyện của chúng tôi bắt đầu từ một sứ mệnh",
+        "about_banner_description_1": "Công ty TNHH ECEPVN được thành lập bởi một nhóm kỹ sư được thúc đẩy bởi niềm tin vào  đào tạo thông qua thực hành để tạo ra giá trị mới cho xã hội, chế tạo sản phẩm chất lượng cao và đạt đến sự toàn vẹn cao nhất trong công việc.",
+        "about_banner_description_2": "Chúng tôi có hai nhóm: Tư vấn và Giáo dục. Nhóm tư vấn tập trung vào các giải pháp Data Warehouse, phát triển, gia công phần mềm, trong và ngoài nước. Nhóm giáo dục tập trung vào xây dựng công cụ để hỗ trợ đào tạo.",
+        "about_banner_description": "Công ty TNHH ECEPVN được thành lập bởi một nhóm kỹ sư được thúc đẩy bởi niềm tin vào  đào tạo thông qua thực hành để tạo ra giá trị mới cho xã hội, xây dựng sản phẩm chất lượng cao và đạt đến sự toàn vẹn cao nhất trong công việc. Chúng tôi có hai nhóm: Tư vấn và Giáo dục. Nhóm tư vấn tập trung vào các giải pháp Data Warehouse, phát triển, gia công phần mềm, trong và ngoài nước. Nhóm giáo dục tập trung vào xây dựng công cụ để hỗ trợ đào tạo.",
+
+        "about_team_consulting_team_title": "Nhóm Tư vấn",
+        "about_team_consulting_team_description": "Chúng tôi tập trung vào dịch vụ tư vấn về Data Warehouse; phân tích dữ liệu lớn dựa trên dịch vụ AWS và hệ thống Spark; phát triển ứng dụng web và di động",
+
+        "about_team_education_team_title": "Nhóm Giáo dục",
+        "about_team_education_team_description": "Chúng tôi thu thập, tổ chức và xây dụng các chương trình đào tạo trực tuyến đại chúng mở nhằm thích ứng với các xu thế việc làm trong tương lai",
+
+        "about_skill_technology_title": "Kỹ năng & Công nghệ",
+
+        "about_our_team_title": "Tóm lược về các thành viên",
+        "about_our_team_founder_chief_executive_officer": "Nhà sáng lập/GĐĐH",
+        "about_our_team_founder_chief_executive_officer_detail": "Nhà sáng lập/ Giám đốc điều hành",
+
+        "about_our_team_chief_tenology_officer": "Giám đốc công nghệ",
+        "about_our_team_chief_tenology_officer_detail": "Giám đốc công nghệ",
+
+        "about_our_team_app_team_leader": "Trưởng nhóm PTUD",
+        "about_our_team_app_team_leader_detail": "Trưởng nhóm phát triển ứng dụng",
+
+        "about_our_team_dw_team_leader": "Trưởng nhóm DW",
+        "about_our_team_dw_team_leader_detail": "Trưởng nhóm phát triển Data Warehouse",
+
+        "about_our_team_senior_reporting_dev": "Senior Reporting Developer",
+        "about_our_team_senior_reporting_dev_detail": "Senior Reporting Developer",
+
+        "about_our_team_senior_database_admin": "Chuyên viên quản trị cơ sở dữ liệu",
+        "about_our_team_senior_database_admin_detail": "Chuyên viên quản trị cơ sở dữ liệu",
+
+        "about_our_team_senior_etl_dev": "Chuyên viên lập trình ETL",
+        "about_our_team_senior_etl_dev_detail": "Chuyên viên lập trình ETL",
+
+        "about_our_team_senior_web_dev": "Chuyên viên lập trình Web",
+        "about_our_team_senior_web_dev_detail": "Chuyên viên lập trình Web",
+
+        "about_our_team_senior_mobile_dev": "Chuyên viên lập trình ứng dụng di động",
+        "about_our_team_senior_mobile_dev_detail": "Chuyên viên lập trình ứng dụng di động",
+
+        "about_our_team_senior_qc": "Chuyên viên kiểm soát chất lượng phần mềm",
+        "about_our_team_senior_qc_detail": "Chuyên viên kiểm soát chất lượng phần mềm",
+
+        "about_our_team_junior_etl_dev": "Chuyên viên lập trình ETL",
+        "about_our_team_junior_etl_dev_detail": "Chuyên viên lập trình ETL",
+
+        "service_service_quality_header": "Chúng tôi cam kết chất lượng dịch vụ",
+        "service_service_quality_productivity_title": "Năng suất",
+        "service_service_quality_productivity_description": "Gia tăng lợi thế cạnh tranh bằng cách kết hợp hài hoà chiến lược với con người và văn hoá",
+        "service_service_quality_reliable_faster_title": "Tin cậy & Nhanh chóng",
+        "service_service_quality_reliable_faster_description": "Phương pháp luận đã được khẳng định, tác động sâu sắc, kết quả bền vững",
+        "service_service_quality_premier_suport_title": "Hỗ trợ hoàn hảo",
+        "service_service_quality_premier_suport_description": "Chúng tôi cung cấp hỗ trợ thiết yếu 24/7 để mang đến thành công cho bạn",
+
+        "service_service_quality_header_part_1": "Chúng tôi cam kết",
+        "service_service_quality_header_part_2": "chất lượng dịch vụ",
+
+        "service_data_warehouse_solution_header": "Giải pháp Data Warehouse",
+        "service_data_warehouse_solution_data_itegation_title": "Tích hợp dữ liệu",
+        "service_data_warehouse_solution_data_itegation_description": "Chuẩn bị và tổng hợp dữ liệu từ nhiều nguồn",
+        "service_data_warehouse_solution_data_analytic_reporting_title": "Phân tích dữ liệu và báo cáo",
+        "service_data_warehouse_solution_data_analytic_reporting_description": "Thấu hiểu sâu sắc để đưa ra những quyết định tốt hơn trong kinh doanh",
+        "service_data_warehouse_solution_big_data_solution_title": "Giải pháp Big Data",
+        "service_data_warehouse_solution_big_data_solution_description": "Tăng cường khả năng mở rộng, độ tin cậy, độ dẻo dai trong khắp môi trường",
+        "service_data_warehouse_solution_description_part_1": "Chúng tôi cung cấp tầm nhìn tổng hợp về dữ liệu doanh nghiệp, được tối ưu hoá về phân tích, kiến trúc, thiết kế, lập trình, kiểm thử, triển khai ban đầu, bảo trì thường xuyên và giám sát đối với cơ sở hạ tầng kỹ thuật trong Data Warehouse.",
+        "service_data_warehouse_solution_description_part_2": "Trọng tâm sẽ là thực thi kiến trúc Data Warehouse, phát triển các công cụ tích hợp và kết nhập. Chúng tôi cũng áp dụng các công nghệ để giải quyết vấn đề dữ liệu lớn trong Data Warehouse.",
+        "service_data_warehouse_solution_description_part_3": "Bên cạnh đó, chúng tôi còn xác định và thực thi các mô hình quản lý và dịch vụ nhằm đảm bảo truy cập liên tục và hỗ trợ hệ thống tối quan trọng này.",
+
+        "service_web_mobile_app_dev_header": "Phát triển Ứng dụng web và di động",
+        "service_web_mobile_app_dev_description": "Chúng tôi hiện thực các nhu cầu của bạn thành những sản phẩm chất lượng cao. Chúng tôi có chuyên môn cao các nền tảng PHP, RoR, iOS, Android. Để đảm bảo sản phẩm cuối cùng đáp ứng yêu cầu của bạn, chúng tôi luôn sát cánh với đội ngũ của bạn từ ý tưởng cho đến khi hoàn thành. Chúng tôi biết làm thế nào để luôn hoàn thành dự án đúng hạn và trong phạm vi ngân sách.",
+        "service_web_mobile_app_dev_ruby_on_rails": "Ruby on rails",
+        "service_web_mobile_app_dev_php": "PHP ",
+        "service_web_mobile_app_dev_ios": "iOS",
+        "service_web_mobile_app_dev_android": "Android",
+
+        "service_training_header": "Đào tạo",
+        "service_training_description": "ECEPVN chuyên về các giải pháp Data Warehouse và phát triển phần mềm ứng dụng. Chúng tôi có thể chuyển giao tri thức cho nhóm của bạn theo yêu cầu. Quá trình đào tạo bắt đầu từ phân tích các nhu cầu, thiết kế chương trình, xây dựng nội dung, đào tạo và đánh giá. Với chuyên môn và kinh nghiệm, chúng tôi tin rằng sẽ trang bị cho nhân viên của bạn những kiến thức tiên tiến trong các lĩnh vực:",
+
+        "service_training_data_warehouse_solution": "Giải pháp Data Warehouse",
+        "service_training_web_app_dev": "Phát triển Ứng dụng web",
+        "service_training_mobile_app_dev": "Phát triển Ứng dụng di động",
+
+        "careers_banner_header": "Trở thành thành viên của chúng tôi",
+        "careers_banner_description": "Chúng tôi luôn tìm kiếm những nguời yêu thích công việc, nhiệt tâm học tập tham gia vào đội ngũ tuyệt vời của chúng tôi! Nếu bạn nghĩ rằng mình đáp ứng những yêu cầu đó, hãy cho chúng tôi biết.",
+        "careers_banner_description_part_1": "Chúng tôi luôn tìm kiếm những người yêu thích công việc, nhiệt tâm học tập tham gia vào đội ngũ tuyệt vời của chúng tôi!",
+        "careers_banner_description_part_2": "Nếu bạn nghĩ rằng mình đáp ứng những yêu cầu đó, hãy cho chúng tôi biết.",
+
+        "careers_hiring_header": "Chúng tôi đang tuyển dụng",
+        "careers_hiring_title": "Làm thế nào để ứng tuyển?",
+        "careers_hiring_content": "Gửi hồ sơ cá nhân, các bản mẫu công việc liên quan hay bất kỳ điều gì khác chứng tỏ bạn là ứng viên tiềm năng vào email",
+
+        "careers_hiring_web_dev": "Chuyên viên lập trình Web",
+        "careers_hiring_web_dev_responsibilities": "Trách nhiệm",
+        "careers_hiring_web_dev_responsibilities_one": "Thiết kế và phát triển các ứng dụng web;",
+        "careers_hiring_web_dev_responsibilities_two": "Cải thiện hình thức và cảm giác, tính năng, an ninh của các ứng dụng web hiện nay;",
+        "careers_hiring_web_dev_responsibilities_three": "Lập tài liệu kỹ thuật;",
+        "careers_hiring_web_dev_responsibilities_four": "Giải quyết các vấn đề kỹ thuật.",
+
+        "careers_hiring_web_dev_requirements": "Yêu cầu",
+        "careers_hiring_web_dev_requirements_part_1": "1 năm kinh nghiệm về PHP hoặc Ruby;",
+        "careers_hiring_web_dev_requirements_part_2": "Đã quen thuộc với cấu trúc web, cácframework MVC và các dịch vụ RESTful;",
+        "careers_hiring_web_dev_requirements_part_3": "Có kinh nghiệm trong một cácframework sau: Laravel, Symfony, Zend, Ruby on Rails;",
+        "careers_hiring_web_dev_requirements_part_4": "Đã quen thuộc với HTML5/CSS3 và cập nhật với các xu hướng/tiêu chuẩn web;",
+        "careers_hiring_web_dev_requirements_part_5": "Có kinh nghiệm về JavaScript và đã quen thuộc với các thư viện như jQuery, AngularJs;",
+        "careers_hiring_web_dev_requirements_part_6": "Có kinh nghiệm về kiểm tra máy và kiểm tra UI tự động;",
+        "careers_hiring_web_dev_requirements_part_7": "Có kiến thức vững chắc về thiết kế cơ sở dữ liệu, hình mẫu thiết kế;",
+        "careers_hiring_web_dev_requirements_part_8": "Có kỹ năng tốt về phân tích, giải quyết vấn đề và tìm và khắc phục lỗi;",
+        "careers_hiring_web_dev_requirements_part_9": "Có kinh nghiệm về môi trường phát triển Agile;",
+        "careers_hiring_web_dev_requirements_part_10": "Không nản lòng trước áp lực công việcvà có khả năng làm việc mà ít cần có sự giám sát;",
+        "careers_hiring_web_dev_requirements_part_11": "Luôn cập nhật và có ý chí tự học tự nghiên cứu làm chủ công nghệ mới nhất để thực hiện;",
+        "careers_hiring_web_dev_requirements_part_12": "Ngôn ngữ yêu cầu: Tiếng Anh (bắt buộc) và tiếng Trung (tùy chọn).",
+
+        "careers_hiring_android_dev": "Chuyên viên lập trình ứng dụng Android",
+
+        "careers_hiring_android_dev_responsibilities": "Trách nhiệm",
+        "careers_hiring_android_dev_responsibilities_part_1": "Thiết kế và phát triển các ứng dụng Mobile (di động);",
+        "careers_hiring_android_dev_responsibilities_part_2": "Cải thiện hình thức và cảm giác, tính năng, an ninh của các ứng dụng Mobile hiện nay;",
+        "careers_hiring_android_dev_responsibilities_part_3": "Lập tài liệu kỹ thuật;",
+        "careers_hiring_android_dev_responsibilities_part_4": "Giải quyết các vấn đề kỹ thuật.",
+
+        "careers_hiring_android_dev_requirements": "Yêu cầu",
+        "careers_hiring_android_dev_requirements_part_1": "1 năm kinh nghiệm về phát triển ứng dụng Android;",
+        "careers_hiring_android_dev_requirements_part_2": "Có kinh nghiệm về kiểm tra máy và kiểm tra UI tự động;",
+        "careers_hiring_android_dev_requirements_part_3": "Có kiến thức vững chắc về thiết kế cơ sở dữ liệu, hình mẫu thiết kế;",
+        "careers_hiring_android_dev_requirements_part_4": "Có kiến thức về LCMS (Chamilo, Moodle...) sẽ được cộng điểm;",
+        "careers_hiring_android_dev_requirements_part_5": "Có kỹ năng tốt về phân tích, giải quyết vấn đề và tìm và khắc phục lỗi;",
+        "careers_hiring_android_dev_requirements_part_6": "Có kinh nghiệm về môi trường phát triển Agile;",
+        "careers_hiring_android_dev_requirements_part_7": "Không nản lòng trước áp lực công việc và có khả năng làm việc mà ít cần có sự giám sát;",
+        "careers_hiring_android_dev_requirements_part_8": "Luôn cập nhật và có ý chí tự học tự nghiên cứu làm chủ công nghệ mới nhất để thực hiện;",
+        "careers_hiring_android_dev_requirements_part_9": "Ngôn ngữ yêu cầu: Tiếng Anh (bắt buộc) và tiếng Trung (tùy chọn).",
+
+        "careers_hiring_graphic_dev": "Chuyên viên thiết kế đồ họa",
+
+        "careers_hiring_graphic_dev_responsibilities": "Trách nhiệm",
+        "careers_hiring_graphic_dev_responsibilities_part_1": "Làm việc với nhóm dự án để sáng tạo ra thiết kế ứng dụng tốt nhất có thể;",
+        "careers_hiring_graphic_dev_responsibilities_part_2": "Sáng tạo hình thức và cảm giác tổng thể về một dải rộng các sản phẩm tương tác;",
+        "careers_hiring_graphic_dev_responsibilities_part_3": "Suy nghĩ và chuẩn bị các ý tưởng và nguyên mẫu thiết kế sơ bộ;",
+        "careers_hiring_graphic_dev_responsibilities_part_4": "Thiết kế, sáng tạo hoặc biên tập các tài sản đồ họa, các sản phẩm đa phương tiện;",
+        "careers_hiring_graphic_dev_responsibilities_part_5": "Hướng dẫn nhóm dự án theo đúng hướng thiết kế.",
+
+        "careers_hiring_graphic_dev_requirements": "Yêu cầu",
+        "careers_hiring_graphic_dev_requirements_part_1": "Kinh nghiệm về lập kế hoạch và thiết kế UI/UX, bao gồm quá trình từ phác họa tới thiết kế đầy đủ, và hỗ trợ quá trình xây dựng;",
+        "careers_hiring_graphic_dev_requirements_part_2": "Kiến thức chuyên gia về Photoshop, AI và các công cụ thiết kế liên quan;",
+        "careers_hiring_graphic_dev_requirements_part_3": "Có kinh nghiệm và hiểu biết vững chắc về in ấn, màu sắc, bố cục & thiết kế; thiết kế 2D/3D;",
+        "careers_hiring_graphic_dev_requirements_part_4": "Có kiến thức cơ bản về HTML, CSS;",
+        "careers_hiring_graphic_dev_requirements_part_5": "Hiểu biết thực tiễn về thiết kế Web, thiết kế ứng dụng Mobile – Các công nghệ, ứng dụng, nền tảng và các giới hạn;",
+        "careers_hiring_graphic_dev_requirements_part_6": "Dành thời gian không ngừng học hỏi thiết kế, công nghệ và các kỹ thuật UI/UX mới nhất;",
+        "careers_hiring_graphic_dev_requirements_part_7": "Không nản lòng trước áp lực công việc và có khả năng làm việc mà ít cần có sự giám sát;",
+        "careers_hiring_graphic_dev_requirements_part_8": "Ngôn ngữ yêu cầu: Tiếng Anh (bắt buộc) và tiếng Trung (tùy chọn).",
+
+        "contact_banner_contact_header": "Liên hệ chúng tôi",
+        "contact_banner_contact_description_part_1": "Với văn phòng ở Mỹ và Việt Nam, dịch vụ của chúng tôi luôn sẵn sàng 24/7.",
+        "contact_banner_contact_description_part_2": "Nếu bạn muốn bắt đầu một dự án hay có bất kỳ câu hỏi nào cho chúng tôi?",
+        "contact_banner_contact_description_part_3": "Xin vui lòng điền vào mẫu bên dưới, cho chúng tôi biết cách để có thể giúp bạn.",
+        "contact_banner_contact_description": "Nếu bạn muốn bắt đầu một dự án hay có bất kỳ câu hỏi nào cho chúng tôi? Xin vui lòng điền vào mẫu bên dưới, cho chúng tôi biết cách để có thể giúp bạn.",
+
+        "contact_company_info_header": "Công ty TNHH ECEPVN",
+        "contact_company_info_description": "\"120 Island Ave, San Diego CA 92010, San Diego, California, United States of America\"",
+
+        "Contacts": "Liên hệ",
+        "contact_company_info_contact": "Liên hệ",
+        "contact_company_info_social": "Theo dõi chúng tôi",
+        "contact_contact_form_header": "Giữ liên lạc",
+
+        "contact_contact_form_description": "Đường dây liên lạc của chúng tôi luôn mở để nhận bất kỳ yêu cầu hoặc thông tin phản hồi. Đừng ngại, hãy gửi email cho chúng tôi theo mẫu dưới đây, chúng tôi sẽ phản hồi sớm nhất có thể.",
+        "contact_contact_form_name": "Tên",
+        "contact_contact_form_phone": "Điện thoại",
+        "contact_contact_form_skype": "Skype",
+        "contact_contact_form_email": "Email",
+        "contact_contact_form_comment": "Chúng tôi có thể giúp gì cho bạn?",
+        "contact_contact_form_submit": "Gửi",
+
+        "Name *": "Tên *",
+        "Phone *": "Điện thoại *",
+        "Skype *": "Skype",
+        "Email *": "Email *",
+        "How can we help? *": "Chúng tôi có thể giúp gì cho bạn? *"
+
+
+
+    }
+}
