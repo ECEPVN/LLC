@@ -292,7 +292,15 @@
         "How can we help? *": "Chúng tôi có thể giúp gì cho bạn? *",
 
         "our_products_banner_header": "Sản phẩm được thiết kế bởi ECEPVN",
-        "our_products_banner_description": "ECEPVN luôn tự hào khi cung cấp sản phẩm tốt nhất đến khách hàng."
+        "our_products_banner_description": "ECEPVN luôn tự hào khi cung cấp sản phẩm tốt nhất đến khách hàng.",
+        "our_products_1_description": "Chúng tôi cung cấp giải pháp Data Warehouse cho doanh nghiệp quảng cáo trực tuyến để tập hợp dữ liệu được cập nhật liên tục từ nhiều nguồn. Sau khi thực hiện các bước tiền xử lý và chuyển đổi, những bộ dữ liệu đó có thể được phân tích và tổng hợp thành các báo cáo để cung cấp thông tin chuyên sâu có giá trị cho doanh nghiệp.\nKỹ năng: DevOps · Pentaho · Amazon Web Services (AWS) · Ruby on Rails · Snowflake · Data",
+        "our_products_2_description": "Rally Inside - Công cụ tiếp thị tuyển dụng AI MIỄN PHÍ.\nRally Inside bổ trợ cho các công cụ tiếp thị và tuyển dụng hiện có. Việc sử dụng công cụ của chúng tôi cùng với  ATS, CRM, công cụ quản lý phương tiện truyền thông xã hội, Google Analytics, v.v. cho phép bạn xem tất cả dữ liệu tương tác nội dung của mình trong một bảng điều khiển (dashboard) cực kỳ dễ sử dụng.\nKỹ năng: DevOps - AWS - Django - PostgreSQL - 3DJS - ChatGPT",
+        "our_products_3_description": "ECEPVN LCMS là phần mềm quản lý học liệu, theo dõi, báo cáo, truyền tải các khóa học e-learning hoặc các chương trình đào tạo.  Ngoài những tính năng cơ bản ECEPVN LCMS cung cấp các chức năng nâng cao như quản lý phiên bản, tìm kiếm, đánh giá khoá học, và các ứng dụng truy cập trên thiết bị di động",
+        "our_products_4_description": "ECEPVN Dictionary là tập hợp các từ điển tham chiếu có chất lượng (từ điển Hán-Việt, Hán-Nôm, Việt-Việt, Anh-Việt, v.v.). Thư viện này bao gồm cơ sở dữ liệu lớn các từ vựng tiếng Việt. Dữ liệu đó có thể được truy cập thông qua Web API. Từ nền tảng ECEPVN Library, bạn có thể xây dựng nhiều ứng dụng khác nhau từ các từ điển tham khảo đến các ứng dụng xử lý ngôn ngữ tự nhiên.",
+        "our_products_5_description": "ECEPVN Library là hệ thống thu thập, chuyển đổi, sắp xếp và bảo trì các bộ sưu tập các tài liệu, video, tệp âm thanh từ các nguồn có chất lượng về văn học, âm nhạc, văn bản, tin tức, nghiên cứu... tiếng Việt",
+        "our_products_6_description": "khodungcu.vn là trang web thương mại điện tử chuyên ngành công cụ, dụng cụ, máy và thiết bị. Khodungcu.vn được trang bị những tính năng cần thiết cho các hoạt động bán hàng trực tuyến.",
+        "our_products_7_description": "chotructuyen.co là trang web thương mại điện tử chuyên ngành công cụ, dụng cụ, máy và thiết bị. Trang web được thiết kế thân thiện với các thiết bị di động, tối ưu hóa công cụ tìm kiếm và được trang bị những tính năng cần thiết cho các hoạt động bán hàng trực tuyến. Ngoài ra, chotructuyen.co có tính năng kết nối dữ liệu với hệ thống CRM khác.",
+        "our_products_8_description": "Homeclick.vn là trang web thương mại điện tử chuyên ngành nội thất. Không chỉ là một trang bán hàng trực tuyến, homeclick.vn hướng tới phát triển những công cụ thiết kế dễ sử dụng dành cho mọi đối tượng chẳng như công cụ thiết kế layout, mix & match hoặc tính năng tuỳ biến sản sản phẩm."
 
 
 
