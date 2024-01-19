@@ -2,6 +2,7 @@
     "token": {
         "layout_menu_top_home": "Trang chủ",
         "layout_menu_top_about": "Giới thiệu",
+        "layout_menu_top_our_products": "Sản phẩm",
         "layout_menu_top_services": "Dịch vụ",
         "layout_menu_top_careers": "Tuyển dụng",
         "layout_menu_top_contact": "Liên hệ",
@@ -288,7 +289,10 @@
         "Phone *": "Điện thoại *",
         "Skype *": "Skype",
         "Email *": "Email *",
-        "How can we help? *": "Chúng tôi có thể giúp gì cho bạn? *"
+        "How can we help? *": "Chúng tôi có thể giúp gì cho bạn? *",
+
+        "our_products_banner_header": "Sản phẩm được thiết kế bởi ECEPVN",
+        "our_products_banner_description": "ECEPVN luôn tự hào khi cung cấp sản phẩm tốt nhất đến khách hàng."
 
 
 
